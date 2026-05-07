@@ -1,1 +1,1 @@
-Qt Widgets Application
+Qt MainWindow Application
